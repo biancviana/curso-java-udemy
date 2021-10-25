@@ -25,7 +25,7 @@ public class Main {
 		
 		System.out.printf("Altura Média: %.2f%n", altura_media);
 		
-		sc.close(); //aa
+		sc.close(); 
 
 	}
 
